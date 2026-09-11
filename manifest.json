@@ -1,0 +1,26 @@
+{
+  "name": "محمد عيد لمهمات الأمن الصناعي",
+  "short_name": "محمد عيد",
+  "description": "نظام إدارة المبيعات والمصروفات لمهمات الأمن الصناعي",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d16",
+  "theme_color": "#0a0f1d",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/942/942748.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/942/942748.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
